@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisablingScreenCapture", "DisablingScreenCapture.csproj", "{F4D73651-143F-43D2-83A3-33CFA17F2599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCaptureProtector", "..\ScreenCaptureProtector\ScreenCaptureProtector.csproj", "{61FC4590-79DF-43EC-ACAC-E5B0BE2B5501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4D73651-143F-43D2-83A3-33CFA17F2599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D73651-143F-43D2-83A3-33CFA17F2599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D73651-143F-43D2-83A3-33CFA17F2599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D73651-143F-43D2-83A3-33CFA17F2599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FC4590-79DF-43EC-ACAC-E5B0BE2B5501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FC4590-79DF-43EC-ACAC-E5B0BE2B5501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FC4590-79DF-43EC-ACAC-E5B0BE2B5501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FC4590-79DF-43EC-ACAC-E5B0BE2B5501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDEF5A16-46B2-4378-A092-8F5606A06F62}
+	EndGlobalSection
+EndGlobal
